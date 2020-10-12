@@ -10,20 +10,26 @@ _Make sure you have a GitHub account. In case you don't have one, you can create
   <summary>1. Register yourself for Hacktoberfest</summary>
   
   ```bash
-  #Link to register: https://hacktoberfest.digitalocean.com/
+  Link to register: https://hacktoberfest.digitalocean.com/
   Click on "Start Hacking" and add your GitHub account.
   ```
 </details>
 
-### 2. Star and Fork this Repository
+<details>
+  <summary>2. Star and Fork this Repository</summary>
 
-###### You can star and fork this repository on GitHub by navigating at the top of this repository.
+```bash
+You can star and fork this repository on GitHub by navigating at the top of this repository.
 
 ![screenshot-star](star.png)
 
 ![screenshot-fork](fork.png)
 
 When you’re on the main page of a repository, you’ll see a button to "Star" and “Fork” the repository on the upper right-hand side of the page, underneath your user icon.
+
+```
+
+</details>
 
 ### 3. Clone the Repository
 
@@ -137,3 +143,7 @@ if you are lazy to find a picture of yourself then here is your hack!!
 # Hurray! You just got closer to completing your Hacktoberfest challenge.
 
 > ©Auto-Bot-Channel
+
+```
+
+```
