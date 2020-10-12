@@ -10,7 +10,7 @@ _Make sure you have a GitHub account. In case you don't have one, you can create
   <summary>1. Register yourself for Hacktoberfest</summary>
   
   ```bash
-  Link to register: https://hacktoberfest.digitalocean.com/
+  #Link to register: https://hacktoberfest.digitalocean.com/
   Click on "Start Hacking" and add your GitHub account.
   ```
 </details>
