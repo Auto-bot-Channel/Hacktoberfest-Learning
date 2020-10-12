@@ -17,7 +17,7 @@ _Make sure you have a GitHub account. In case you don't have one, you can create
 </details>
 
 <details>
-  <summary>2. Star and Fork this Repository</summary>
+  <summary><b>2. Star and Fork this Repository</b></summary>
 <br>
 You can star and fork this repository on GitHub by navigating at the top of this repository.
 
