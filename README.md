@@ -2,7 +2,7 @@
 
 ![Screenshot-HFST](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp)
 
-## Instructions:
+## Instructions ✨:
 
 _Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on `Sign up` option at the top right corner._
 
