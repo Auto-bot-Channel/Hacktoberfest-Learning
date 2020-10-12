@@ -7,7 +7,7 @@
 _Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on `Sign up` option at the top right corner._
 
 <details>
-  <summary>1. Register yourself for Hacktoberfest</summary>
+  <summary><b>1. Register yourself for Hacktoberfest</b></summary>
   
   ```bash
   Link to register: https://hacktoberfest.digitalocean.com/
@@ -34,7 +34,7 @@ When you’re on the main page of a repository, you’ll see a button to "Star" 
 </details>
 
 <details>
-  <summary>3. Clone the Repository</summary>
+  <summary><b>3. Clone the Repository</b></summary>
 
   <br>
 
@@ -55,7 +55,7 @@ Once we have the URL, we’re ready to clone the repository. To do this, we’ll
 
 <details>
 
-  <summary>4. Create a New Branch</summary>
+  <summary><b>4. Create a New Branch</b></summary>
 
 <br>
 
@@ -103,24 +103,35 @@ If you have a very short message, you can record that with the -m flag and the m
 
 </details>
 
-### 5. Update Local Repository
-
+<details>
+  <summary><b>5. Update Local Repository</b></summary>
+  <br>
 _While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the code base updated, you’ll need to sync changes._
 
 We’ll first go over configuring a remote for the fork, then syncing the fork.
 
-### 6. Configure a Remote for the Fork
+</details>
 
+<details>
+  <summary><b>6. Configure a Remote for the Fork</b></summary>
+  <br>
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
 ##### `git remote add upstream https://github.com/acmbvp/Hacktoberfest-Learning.git`
 
+<br>
+
 ![screenshot 74](https://user-images.githubusercontent.com/37223446/47235672-5f0efa00-d3f7-11e8-9e45-1af02d8b969b.png)
+<br>
 
 In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
 
-### 7. Sync the Fork
+</details>
 
+<details>
+  <summary><b>7. Sync the Fork</b></summary>
+  <br>
+  
 Once you have configured a remote that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
 To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the // git fetch // command to fetch the branches along with their respective commits from the upstream repository. Since you used the shortname “upstream” to refer to the upstream repository, you’ll have to pass that to the command:
 
@@ -134,11 +145,17 @@ Now merge any changes that were made in the original repository’s master branc
 
 ##### `git merge upstream/master`
 
-### 8. Create Pull Request
+</details>
+
+<details>
+  <summary><b>8. Create Pull Request</b></summary>
+  <br>
 
 At this point, you are ready to make a pull request to the original repository.
 
 Navigate to your forked repository, and press the “New pull request” button on your left-hand side of your Repo page.
+
+</details>
 
 ---
 
