@@ -32,9 +32,10 @@ When you’re on the main page of a repository, you’ll see a button to "Star" 
 
 </details>
 
-### 3. Clone the Repository
-
-To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
+<details>
+  <summary>3. Clone the Repository</summary>
+  
+  To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
 
 We’ll use the `git clone` command along with the URL that points to your fork of the repository.
 
@@ -46,6 +47,8 @@ You can alternatively copy the URL by using the green “Clone or download” bu
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
 `git clone https://github.com/your-username/Hacktoberfest-Learning.git`
+
+</details>
 
 ### 4. Create a New Branch
 
