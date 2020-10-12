@@ -35,6 +35,8 @@ When you’re on the main page of a repository, you’ll see a button to "Star" 
 <details>
   <summary>3. Clone the Repository</summary>
 
+  <br>
+
 To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
 
 We’ll use the `git clone` command along with the URL that points to your fork of the repository.
@@ -53,8 +55,9 @@ Once we have the URL, we’re ready to clone the repository. To do this, we’ll
 <details>
 
   <summary>4. Create a New Branch</summary>
-  
- 
+
+<br>
+
 To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Hacktoberfest-Learning) to switch into that directory.
 
 ##### `cd Hacktoberfest-Learning`
