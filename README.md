@@ -11,6 +11,7 @@ _Make sure you have a GitHub account. In case you don't have one, you can create
   
   ```bash
   Link to register: https://hacktoberfest.digitalocean.com/
+  
   Click on "Start Hacking" and add your GitHub account.
   ```
 </details>
