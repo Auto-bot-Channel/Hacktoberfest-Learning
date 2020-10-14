@@ -11,6 +11,7 @@ header{
   font-family: 'Inter Regular', 'Helvetica' , 'Arial' ,san-serif;
 }
 h3{
+  text-transform: capitalize;
   margin-left:20px;
   color:#000000;
   text-align: center;
@@ -19,3 +20,16 @@ h3{
 .card{
   margin-top: 20px;
 }
+
+.GFG {
+           background-color: white;
+           border: 2px solid black;
+           color: green;
+           padding: 5px 10px;
+           text-align: center;
+           display: inline-block;
+           font-size: 20px;
+           margin: 10px 700px;
+           cursor: pointer;
+           border-radius: 9px;
+       }
