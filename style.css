@@ -1,0 +1,21 @@
+body{
+  margin:0;
+  padding:0;
+  background:#ffffff;
+  box-sizing: border-box;
+}
+header{
+  background:#000000;
+  color:	#FF69B4;
+  padding:5px;
+  font-family: 'Inter Regular', 'Helvetica' , 'Arial' ,san-serif;
+}
+h3{
+  margin-left:20px;
+  color:#000000;
+  text-align: center;
+  font-family: 'Inter Regular', 'Helvetica' , 'Arial' ,san-serif;
+}
+.card{
+  margin-top: 20px;
+}
