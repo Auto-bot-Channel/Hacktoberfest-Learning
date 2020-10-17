@@ -1,13 +1,35 @@
+* {
+  scrollbar-width: thin;
+
+}
+/* Works on Chrome/Edge/Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
 body{
   margin:0;
   padding:0;
   background:#ffffff;
   box-sizing: border-box;
+    /*background-color: 	#F2AA4CFF;*/
 }
 header{
-  background:#000000;
-  color:	#FF69B4;
-  padding:5px;
+  background:#93c2db;
+  color:;
+  padding:0px;
   font-family: 'Inter Regular', 'Helvetica' , 'Arial' ,san-serif;
 }
 h3{
@@ -16,6 +38,10 @@ h3{
   color:#000000;
   text-align: center;
   font-family: 'Inter Regular', 'Helvetica' , 'Arial' ,san-serif;
+}
+iframe{
+  border: none;
+    overflow: hidden;
 }
 .card{
   margin-top: 20px;
