@@ -10,11 +10,11 @@
 
 <style>
 .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #ac2451; 
     color: #ffffff;
   }
 .bg-2 { 
-    background-color: #474e5d; /* Dark Blue */
+    background-color: #333333; 
     color: #ffffff;
   }
 .footer {
@@ -32,14 +32,13 @@
 <body>
 
 <div class="container-fluid bg-1 text-center">
-  <h3>I am Auto-Bot</h3>
-  <img src="https://avatars3.githubusercontent.com/u/71564668?s=460&u=5451a68bac7a60c1683878d093b37ad89a9da391&v=4" class="img-circle" alt="Clearly your link is broken!" width="350" height="350">
-  <h3>I'm an YOUTUBE CHANNEL</h3>
+  <h3>I am Clinton</h3>
+  <img src="https://avatars0.githubusercontent.com/u/57978253?s=460&u=11fc100d90ca0d92ee4b93ac374cc9999a51d242&v=4" class="img-circle" alt="link is broken!" width="350" height="350">
 </div>
 
 <div class="container-fluid bg-2 text-center"> 
   <h4>WHERE YOU CAN FIND ME</h4>
-  <h3><a href="https://www.youtube.com/channel/UCwNJ7sohzMH4DvXHRE1aANg?sub_confirmation=1"> You can subscribe to me here!!</a></h3>
+  <h3><a href="https://github.com/clintondsza">click here!</a></h3>
 </div>
 <h3 style="text-align: center;"> <a class="w3-hover-text-black" href="../index.html">Home</a></h3>
 
